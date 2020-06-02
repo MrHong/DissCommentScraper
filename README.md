@@ -7,8 +7,10 @@ From the sorted tree it creates a downloadable file with all the comments and da
 
 ### Prerequisites
 Software used:
-  - Tampermonkey 4.8
-  - Chrome 74.0.3729
+  - Chrome 74.0.3729 [Website](https://www.google.com/chrome/)
+  - Tampermonkey 4.8 [Website](https://www.tampermonkey.net/)
+
+The whole Setup should also work with Firefox as Browser and Greasemonkey as Userscript Manager.
 
 ## Authors
 
